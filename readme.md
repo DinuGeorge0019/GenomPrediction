@@ -47,18 +47,17 @@
 - Description: This notebook presents the training and results of a series of decision trees models on the proposed datasets, with the feature that we first predict the genetic disorder, add it as a feature and then predict the disorder subclass.
 - File: `_Notebooks/disorder_subclass_with_genetic_disorder_predicted_decision_tree_experiments.ipynb`
 
-### Notebook 6: Predictions
+### Notebook 6: Genetic disorder prediction using decision trees experiments
 
-- Description: This notebook provides an example of making predictions using the trained model.
+- Description: This notebook presents the training and results of a series of decision trees models on the proposed datasets.
 - File: `_Notebooks/genetic_disorder_decision_trees_experiments.ipynb`
 
-### Notebook 7: Predictions
+### Notebook 7: Disorder Subclass prediction using MLP
 
-- Description: This notebook provides an example of making predictions using the trained model.
+- Description: This notebook presents the training and results of a series of MLP models on the proposed datasets.
 - File: `_Notebooks/genetic_disorder_graph_nn_experiments.ipynb`
 
-### Notebook 8: Predictions
+### Notebook 8: Disorder Subclass prediction using GNN
 
-- Description: This notebook provides an example of making predictions using the trained model.
+- Description: This notebook presents the training and results of a series of GNN models on the proposed datasets.
 - File: `_Notebooks/genetic_disorder_nn_experiments.ipynb`
-
